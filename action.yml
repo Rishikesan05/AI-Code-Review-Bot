@@ -3,7 +3,7 @@ description: 'OpenAI-based PR Reviewer and Summarizer'
 branding:
   icon: 'aperture'
   color: 'orange'
-author: 'FluxNinja, Inc.'
+author: 'Rishikesan05'
 inputs:
   debug:
     required: false
