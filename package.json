@@ -34,7 +34,7 @@
     "p-limit": "^4.0.0"
   },
   "devDependencies": {
-    "@jest/globals": "^29.5.0",
+    "@jest/globals": "^30.5.1",
     "@types/node": "^18.15.3",
     "@typescript-eslint/parser": "^5.55.0",
     "@vercel/ncc": "^0.36.1",
