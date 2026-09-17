@@ -123,7 +123,3 @@ npm test
 # Build
 npm run build
 ```
-
-## License
-
-MIT
